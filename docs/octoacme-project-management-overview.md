@@ -18,7 +18,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- UX Designer: designs user experience flows and validates usability.
+- DevOps Engineer: maintains pipelines, deployment automation, and operational reliability.
+- Security Champion: advocates for secure practices and conducts security reviews.
+- Stakeholder Liaison: manages stakeholder communication and feedback.
+- Customer Support Lead: translates customer feedback into actionable product inputs.
+
+See [Roles and Personas](./octoacme-roles-and-personas.md) for full definitions and interaction points.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -27,6 +33,8 @@ Applies to all cross-functional projects that deliver product features, services
 - Acceptance Criteria & Definition of Done
 - Risk Register
 - Retrospective notes and action items
+- [Roles and Personas](./octoacme-roles-and-personas.md): full role definitions and lifecycle interaction points
+- [Role Collaboration Checklist](./octoacme-role-collaboration-checklist.md): practical guide for engaging the right roles at each lifecycle phase
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
